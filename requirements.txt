@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+graphviz
+micrograd
+einops
+transformers
+datasets
+jupyter
